@@ -1,3 +1,3 @@
 # clone this repo
 
-make sure you clone this repository
+make sure you clone this repositories
